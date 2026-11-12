@@ -1,4 +1,4 @@
-# hpsilab-com
+# HPSILab
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,103 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-hpsilab-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://hpsilab.com/
+HPSILab provides a Quant Finance MCP server for AI agents and developers, offering stock and options analytics, risk signals, Monte Carlo analysis, volatility tools, and market data through both MCP and a REST API. Users can watch three stocks for free with important risk change alerts, while paid plans extend access to ten stocks, pre‑trade checks, decision intelligence, and advanced analytics such as option pressure, implied volatility, and strategy backtesting.
+
+**Areas:** Finance · Quant · AI · Stock · Options
+
+## HPSILab on APIs.io
+
+Everything profiled for HPSILab is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/hpsilab-com/](https://apis.io/providers/hpsilab-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [HPSILab API](https://apis.io/apis/hpsilab-com/hpsilab-com-api/) — HPSILab API as documented publicly: 1 operations. Contract generated from the documentation by API Evangelist (2026-11-11); not the provider's own document.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [HPSILab API Rules](https://apis.io/rules/hpsilab-com/hpsilab-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [HPSILab Authentication](https://apis.io/security/hpsilab-com/hpsilab-com-authentication/)
+- [HPSILab Domain Security](https://apis.io/security/hpsilab-com/hpsilab-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [HPSILab Plans Pricing](https://apis.io/plans/hpsilab-com/hpsilab-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://hpsilab.com/)
+- [Getting started](https://hpsilab.com/developer/v2)
+- [Pricing](https://hpsilab.com/pricing)
+- [Terms of service](https://hpsilab.com/terms)
+- [Privacy policy](https://hpsilab.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 44.7** — developing · rubric 0.27.0 · scored 2026-11-11
+
+| Facet | Score |
+|---|---|
+| Discoverability | 56.7 |
+| Contract quality | 38.0 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 31.0 |
+| Access clarity | 63.7 |
+
+**Agent readiness 34.6** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | near-conformant (partial credit) |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/hpsilab-com/](https://apis.io/providers/hpsilab-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for HPSILab: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/hpsilab-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
